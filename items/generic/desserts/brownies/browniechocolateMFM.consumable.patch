@@ -1,0 +1,13 @@
+[
+  [
+    { "op" : "test", "path" : "/collectablesOnPickup", "inverse" : true }
+    { "op" : "add", "path" : "/collectablesOnPickup", "value" : {} }
+  ],
+  [
+    { "op" : "test", "path" : "/collectablesOnPickup/mfm_desserts", "inverse" : true }
+    { "op" : "add", "path" : "/collectablesOnPickup/mfm_desserts", "value" : "" }
+  ],
+  [
+    { "op" : "replace", "path" : "/collectablesOnPickup/mfm_desserts", "value" : "browniechocolateMFM" }
+  ]
+]
