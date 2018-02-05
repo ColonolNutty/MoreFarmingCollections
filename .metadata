@@ -1,0 +1,9 @@
+{
+  "author" : "ColonolNutty",
+  "description" : "An addon for More Farming that adds collections to allow you to collect all the things!",
+  "friendlyName" : "CN More Farming - Collections",
+  "includes" : ["MoreFarming", "FrackinUniverse"],
+  "name" : "MoreFarmingCollections",
+  "tags" : "Planets and Environments|Food and Farming|Mechanics",
+  "version" : "v1.0"
+}
