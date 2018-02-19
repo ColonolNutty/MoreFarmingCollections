@@ -1,0 +1,232 @@
+Desserts Galore
+  - /items
+    - /generic
+      - /desserts
+        - /pudding
+	    - /crepes
+Legendary Baker
+  - /items
+    - /generic
+      - /desserts
+        - /brownies
+	    - /cakes
+	    - /cookies
+	    - /cupcakes
+	    - /donuts
+	    - /pies
+Candy Rush
+  - /items
+    - /generic
+      - /desserts
+        - /caramel
+	      - /chocolatecovered
+	      - lollipopMFM
+	      - marshmallowcoveredsweetpotatoMFM
+Good ol' Outdoors
+  - /objects
+    - /campsite
+  - /items
+    - /generic
+      - /desserts
+        - smoreMFM
+    	- toastedmarshmallowMFM
+	    - marshmallowcoveredsweetpotatoMFM
+      - /meal
+        - /baked
+		- /roasted
+Boil 'em, Mash 'em, Stick 'em in a Stew
+  - /items
+    - /generic
+      - /meal
+        - /boiled
+Home For The Holidays
+  - /items
+    - /generic
+      - /drinks
+        - eggnogMFM
+	    - /cider
+	    - /other
+      - /meal
+        - /cooked
+	      - honeyglazedhamMFM
+	    - /mashedpotatoes
+	    - /plate
+	      - tofurkeydinnerMFM
+Frozen Delight
+  - /items
+    - /generic
+      - /desserts
+        - /icecream
+Where Has All The Rum Gone?
+  - /items
+    - /generic
+      - /drinks
+        - /alcohol
+I Lyka Tha Juce
+  - /items
+    - /generic
+      - /drinks
+        - /juice
+Will It Blend?
+  - /items
+    - /generic
+      - /drinks
+        - /milkshakes
+	    - /puree
+Fresh Off The Barbie
+  - /items
+    - /generic
+      - /meal
+        - /cooked
+	    - /grilled
+Back To The Basics
+  - /items
+    - /generic
+      - /meal
+        - /bread
+	    - /toast
+	    - /pasta
+	      - instantnoodlesMFM
+All American
+  - /items
+    - /generic
+      - /meal
+        - /burger
+	    - /fries
+	    - /pizza
+	    - /plate
+	      - steakandmashedpotatoesMFM
+		- /bowl
+		  - macncheeseMFM
+Under Da Sea
+  - /items
+    - /generic
+      - /meal
+        - /fish
+	    - /cooked
+	      - cookedoctopusMFM
+	      - cookedkelpMFM
+	      - cookedshrimpMFM
+          - cookedsquidMFM
+	      - cookedtunaMFM
+	      - smokedsalmonMFM
+International Cuisine
+  - /items
+    - /generic
+      - /meal
+        - /kebab
+        - /pasta
+        - /pizza
+        - /plate
+          - padthaiMFM
+          - phoMFM
+		- /bowl
+		  - curryriceMFM
+		  - tofucurryMFM
+		  - gumboMFM
+Farmers Market
+  - /items
+    - /generic
+	  - /produce
+Chocolate Eatibles
+  - /items
+    - /generic
+      - /desserts
+	    - /chocolatecovered
+        - /other
+	  - /partsMFM
+	    - /chocolate
+Chocolate Decor
+  - /objects
+    - /chocolatechessMFM
+	- /chocolateMFM
+	- /eastermFM
+	 - /chocolatebow1MFM
+	 - /chocolatebow2MFM
+	 - /chocolatebunnystatueMFM
+	 - /chocolatecarouselMFM
+	 - /chocolatechairMFM
+	 - /chocolateeggbasketMFM
+	 - /chocolateeggstashMFM
+	 - /chocolatelightdMFM
+	 - /chocolatelightMFM
+	 - /chocolatestatuedarkbunnyMFM
+Appliance Connoisseur
+ - /objects
+   - /apex
+   - /avian
+   - /floran
+   - /generic
+   - /glitch
+   - /human
+   - /hylotl
+   - /nano
+   - /nanokid
+   - /outpost
+   - /themed
+It's Easter!
+  - /objects
+    - /easterMFM
+	- /shop
+	  - /easterbunnyshopMFM
+  - /items
+    - /generic
+	  - /unknownMFM
+	    - chocolateeggMFM
+Bamboozled
+  - /items
+    - /generic
+	  - /produce
+	    - bamboostalkBMB
+  - /objects
+    - /bamboo
+Wicker Man
+  - /objects
+    - /baskets
+	- /wickerfurnitureMFM
+Lover o' Liquids
+  - /items
+    - /liquids
+True Builder
+  - /items
+    - /materials
+Drink Masta
+  - /items
+    - /generic
+	  - /drinks
+Sushi Master
+  - /items
+    - /generic
+      - /meal
+        - /rice
+          - /maki
+	      - /nigiri
+	      - /temaki
+		  - tamagoyakiMSM
+		  - riceballMSM
+Bits n' Pieces
+  - /items
+    - /generic
+	  - /partsMFM
+Exotic Tastes
+  - /items
+    - /generic
+      - /drinks
+        - pussMFM
+Best Part Of Waking Up
+  - /items
+    - /generic
+      - /meal
+        - /poptart
+        - /pancakes
+        - /waffles
+        - /toast
+        - /plate
+          - baconandeggsMFM
+	      - sausagealienpoultryandeggsMFM
+		- /fried
+		  - scrambledeggMFM
+		  - scrambledeggwithketchupMFM
+		  - sunnysideupMFM
+        - hashbrownspotatoMFM.consum
+        - hashbrownssweetpotatoMFM
