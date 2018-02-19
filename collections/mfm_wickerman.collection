@@ -1,0 +1,9 @@
+{
+	"name" : "mfm_wickerman",
+	"title" : "[MFM] Wicker Man",
+	"type" : "item",
+
+	"collectables" : {
+		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+	}
+}

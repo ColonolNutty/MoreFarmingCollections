@@ -1,0 +1,9 @@
+{
+	"name" : "mfm_loveroliquids",
+	"title" : "[MFM] Lover O' Liquids",
+	"type" : "item",
+
+	"collectables" : {
+		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name" : "mfm_exoticdelicacy",
+	"title" : "[MFM] Exotic Delicacy",
+	"type" : "item",
+
+	"collectables" : {
+		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+	}
+}

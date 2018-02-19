@@ -1,0 +1,9 @@
+{
+	"name" : "mfm_underdasea",
+	"title" : "[MFM] Under Da Sea",
+	"type" : "item",
+
+	"collectables" : {
+		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+	}
+}

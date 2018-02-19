@@ -1,0 +1,9 @@
+{
+	"name" : "mfm_freshoffthebarbie",
+	"title" : "[MFM] Fresh Off The Barbie",
+	"type" : "item",
+
+	"collectables" : {
+		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+	}
+}

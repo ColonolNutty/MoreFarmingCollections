@@ -22,7 +22,7 @@ Candy Rush
 	      - /chocolatecovered
 	      - lollipopMFM
 	      - marshmallowcoveredsweetpotatoMFM
-Good ol' Outdoors
+Good Ol' Outdoors
   - /objects
     - /campsite
   - /items
@@ -52,7 +52,7 @@ Home For The Holidays
 	    - /mashedpotatoes
 	    - /plate
 	      - tofurkeydinnerMFM
-Frozen Delight
+Frozen Delights
   - /items
     - /generic
       - /desserts
@@ -187,14 +187,14 @@ Wicker Man
 Lover o' Liquids
   - /items
     - /liquids
-True Builder
+Food Contractor
   - /items
     - /materials
 Drink Masta
   - /items
     - /generic
 	  - /drinks
-Sushi Master
+Sushi Masta
   - /items
     - /generic
       - /meal
@@ -208,7 +208,7 @@ Bits n' Pieces
   - /items
     - /generic
 	  - /partsMFM
-Exotic Tastes
+Exotic Delicacy
   - /items
     - /generic
       - /drinks

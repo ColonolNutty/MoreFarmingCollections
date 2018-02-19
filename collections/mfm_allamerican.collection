@@ -1,0 +1,9 @@
+{
+	"name" : "mfm_allamerican",
+	"title" : "[MFM] All American",
+	"type" : "item",
+
+	"collectables" : {
+		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+	}
+}

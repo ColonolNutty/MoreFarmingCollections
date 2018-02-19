@@ -1,0 +1,9 @@
+{
+	"name" : "mfm_homefortheholidays",
+	"title" : "[MFM] Home For The Holidays",
+	"type" : "item",
+
+	"collectables" : {
+		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+	}
+}

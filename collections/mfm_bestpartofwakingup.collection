@@ -1,0 +1,9 @@
+{
+	"name" : "mfm_bestpartofwakingup",
+	"title" : "[MFM] Best Part Of Waking Up",
+	"type" : "item",
+
+	"collectables" : {
+		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+	}
+}

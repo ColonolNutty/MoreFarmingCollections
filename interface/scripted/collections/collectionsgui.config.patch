@@ -79,7 +79,35 @@
       "op": "replace",
       "path": "/customCollectionsMFM",
       "value": [
-        "mfm_desserts"
+        "mfm_allamerican",
+        "mfm_applianceconnoisseur",
+        "mfm_backtothebasics",
+        "mfm_bamboozled",
+        "mfm_bestpartofwakingup",
+        "mfm_bitsnpieces",
+        "mfm_boilemmashemstickeminastew",
+        "mfm_candyrush",
+        "mfm_chocolatedecor",
+        "mfm_chocolateeatibles",
+        "mfm_dessertsgalore",
+        "mfm_drinkmasta",
+        "mfm_exoticdelicacy",
+        "mfm_farmersmarket",
+        "mfm_foodcontractor",
+        "mfm_freshoffthebarbie",
+        "mfm_frozendelights",
+        "mfm_goodoloutdoors",
+        "mfm_homefortheholidays",
+        "mfm_ilykathajuce",
+        "mfm_internationalcuisine",
+        "mfm_itseaster",
+        "mfm_legendarybaker",
+        "mfm_loveroliquids",
+        "mfm_sushimasta",
+        "mfm_underdasea",
+        "mfm_wherehasalltherumgone",
+        "mfm_wickerman",
+        "mfm_willitblend"
       ]
     }
   ],
@@ -130,6 +158,7 @@
   [
     { "op" : "test", "path" : "/customCollectionsFU" },
     { "op" : "test", "path" : "/gui/collectionTabs/buttons/8" },
+    { "op" : "test", "path" : "/gui/collectionTabs/buttons/8/position" },
     {
       "op" : "replace",
       "path" : "/gui/collectionTabs/buttons/8/position",
@@ -139,6 +168,7 @@
   [
     { "op" : "test", "path" : "/customCollectionsFU" },
     { "op" : "test", "path" : "/gui/collectionTabs/buttons/9" },
+    { "op" : "test", "path" : "/gui/collectionTabs/buttons/9/position" },
     {
       "op" : "replace",
       "path" : "/gui/collectionTabs/buttons/9/position",
@@ -148,6 +178,7 @@
   [
     { "op" : "test", "path" : "/customCollectionsFU" },
     { "op" : "test", "path" : "/gui/collectionTabs/buttons/10" },
+    { "op" : "test", "path" : "/gui/collectionTabs/buttons/10/position" },
     {
       "op" : "replace",
       "path" : "/gui/collectionTabs/buttons/10/position",
@@ -203,6 +234,7 @@
     { "op" : "test", "path" : "/gui/collectionTabs/buttons/6" },
     { "op" : "test", "path" : "/gui/collectionTabs/buttons/6/baseImage", "value" : "/interface/scripted/collections/tab_fu_deselect.png" },
     { "op" : "test", "path" : "/gui/collectionTabs/buttons/8" },
+    { "op" : "test", "path" : "/gui/collectionTabs/buttons/8/position" },
     {
       "op" : "replace",
       "path" : "/gui/collectionTabs/buttons/8/position",
@@ -213,6 +245,7 @@
     { "op" : "test", "path" : "/gui/collectionTabs/buttons/6" },
     { "op" : "test", "path" : "/gui/collectionTabs/buttons/6/baseImage", "value" : "/interface/scripted/collections/tab_fu_deselect.png" },
     { "op" : "test", "path" : "/gui/collectionTabs/buttons/9" },
+    { "op" : "test", "path" : "/gui/collectionTabs/buttons/9/position" },
     {
       "op" : "replace",
       "path" : "/gui/collectionTabs/buttons/9/position",
@@ -223,6 +256,7 @@
     { "op" : "test", "path" : "/gui/collectionTabs/buttons/6" },
     { "op" : "test", "path" : "/gui/collectionTabs/buttons/6/baseImage", "value" : "/interface/scripted/collections/tab_fu_deselect.png" },
     { "op" : "test", "path" : "/gui/collectionTabs/buttons/10" },
+    { "op" : "test", "path" : "/gui/collectionTabs/buttons/10/position" },
     {
       "op" : "replace",
       "path" : "/gui/collectionTabs/buttons/10/position",
@@ -236,6 +270,7 @@
     "value" : "/interface/scripted/collections/tab_fu_deselect.png",
     "inverse" : true },
     { "op" : "test", "path" : "/gui/collectionTabs/buttons/7" },
+    { "op" : "test", "path" : "/gui/collectionTabs/buttons/7/position" },
     {
       "op" : "replace",
       "path" : "/gui/collectionTabs/buttons/7/position",

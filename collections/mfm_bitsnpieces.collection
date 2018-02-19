@@ -1,0 +1,9 @@
+{
+	"name" : "mfm_bitsnpieces",
+	"title" : "[MFM] Bits n' Pieces",
+	"type" : "item",
+
+	"collectables" : {
+		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+	}
+}

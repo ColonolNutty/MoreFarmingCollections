@@ -1,0 +1,9 @@
+{
+	"name" : "mfm_itseaster",
+	"title" : "[MFM] It's Easter!",
+	"type" : "item",
+
+	"collectables" : {
+		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+	}
+}

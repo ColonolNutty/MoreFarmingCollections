@@ -1,0 +1,9 @@
+{
+	"name" : "mfm_frozendelights",
+	"title" : "[MFM] Frozen Delights",
+	"type" : "item",
+
+	"collectables" : {
+		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+	}
+}

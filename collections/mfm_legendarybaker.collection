@@ -1,0 +1,9 @@
+{
+	"name" : "mfm_legendarybaker",
+	"title" : "[MFM] Legendary Baker",
+	"type" : "item",
+
+	"collectables" : {
+		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+	}
+}

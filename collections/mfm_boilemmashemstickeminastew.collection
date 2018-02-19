@@ -1,0 +1,9 @@
+{
+	"name" : "mfm_boilemmashemstickeminastew",
+	"title" : "[MFM] Boil 'em, Mash 'em, Stick 'em in a Stew",
+	"type" : "item",
+
+	"collectables" : {
+		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+	}
+}

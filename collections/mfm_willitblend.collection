@@ -1,0 +1,9 @@
+{
+	"name" : "mfm_willitblend",
+	"title" : "[MFM] Will It Blend?",
+	"type" : "item",
+
+	"collectables" : {
+		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+	}
+}

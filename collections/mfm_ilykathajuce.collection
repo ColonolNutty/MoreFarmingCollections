@@ -1,0 +1,9 @@
+{
+	"name" : "mfm_ilykathajuce",
+	"title" : "[MFM] I Lyka Tha Juce",
+	"type" : "item",
+
+	"collectables" : {
+		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+	}
+}

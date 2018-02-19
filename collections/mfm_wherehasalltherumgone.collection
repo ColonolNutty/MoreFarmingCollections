@@ -1,0 +1,9 @@
+{
+	"name" : "mfm_wherehasalltherumgone",
+	"title" : "[MFM] Where Has All The Rum Gone?",
+	"type" : "item",
+
+	"collectables" : {
+		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+	}
+}

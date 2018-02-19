@@ -1,0 +1,9 @@
+{
+	"name" : "mfm_farmersmarket",
+	"title" : "[MFM] Farmers Market",
+	"type" : "item",
+
+	"collectables" : {
+		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+	}
+}

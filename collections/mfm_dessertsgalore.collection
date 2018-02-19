@@ -1,0 +1,9 @@
+{
+	"name" : "mfm_dessertsgalore",
+	"title" : "[MFM] Desserts Galore",
+	"type" : "item",
+
+	"collectables" : {
+		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+	}
+}

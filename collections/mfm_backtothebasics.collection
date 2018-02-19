@@ -1,0 +1,9 @@
+{
+	"name" : "mfm_backtothebasics",
+	"title" : "[MFM] Back To The Basics",
+	"type" : "item",
+
+	"collectables" : {
+		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name" : "mfm_bamboozled",
+	"title" : "[MFM] Bamboozled",
+	"type" : "item",
+
+	"collectables" : {
+		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+	}
+}

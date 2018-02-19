@@ -1,0 +1,9 @@
+{
+	"name" : "mfm_chocolatedecor",
+	"title" : "[MFM] Chocolate Decor",
+	"type" : "item",
+
+	"collectables" : {
+		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+	}
+}

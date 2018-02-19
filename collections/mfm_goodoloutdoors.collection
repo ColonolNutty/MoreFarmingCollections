@@ -1,0 +1,9 @@
+{
+	"name" : "mfm_goodoloutdoors",
+	"title" : "[MFM] Good Ol' Outdoors",
+	"type" : "item",
+
+	"collectables" : {
+		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+	}
+}

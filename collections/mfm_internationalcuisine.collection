@@ -1,0 +1,9 @@
+{
+	"name" : "mfm_internationalcuisine",
+	"title" : "[MFM] International Cuisine",
+	"type" : "item",
+
+	"collectables" : {
+		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+	}
+}
