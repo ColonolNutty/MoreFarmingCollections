@@ -4,7 +4,7 @@
 	"type" : "item",
 
 	"collectables" : {
-		"bamboostalkBMB" : { "order" : 1, "item" : "bamboostalkBMB" },
+		"bamboostalkMFM" : { "order" : 1, "item" : "bamboostalkMFM" },
 		"bamboobedBMB" : { "order" : 2, "item" : "bamboobedBMB" },
 		"bamboobookcaseBMB" : { "order" : 3, "item" : "bamboobookcaseBMB" },
 		"bamboocageBMB" : { "order" : 4, "item" : "bamboocageBMB" },
