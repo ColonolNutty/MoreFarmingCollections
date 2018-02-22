@@ -4,6 +4,30 @@
 	"type" : "item",
 
 	"collectables" : {
-		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" },
+		"browniejelonMFM" : { "order" : 2, "item" : "browniejelonMFM" },
+		"bdaycakesliceMFM" : { "order" : 3, "item" : "bdaycakesliceMFM" },
+		"cakespookyMFM" : { "order" : 4, "item" : "cakespookyMFM" },
+		"chocolatecookieMFM" : { "order" : 5, "item" : "chocolatecookieMFM" },
+		"gingercookieMFM" : { "order" : 6, "item" : "gingercookieMFM" },
+		"jeloncookieMFM" : { "order" : 7, "item" : "jeloncookieMFM" },
+		"raisincookieMFM" : { "order" : 8, "item" : "raisincookieMFM" },
+		"sugarcookieMFM" : { "order" : 9, "item" : "sugarcookieMFM" },
+		"toffeecookieMFM" : { "order" : 10, "item" : "toffeecookieMFM" },
+		"cupcakechocolateMFM" : { "order" : 11, "item" : "cupcakechocolateMFM" },
+		"cupcakecoffeeMFM" : { "order" : 12, "item" : "cupcakecoffeeMFM" },
+		"cupcakelemonMFM" : { "order" : 13, "item" : "cupcakelemonMFM" },
+		"cupcakeplainMFM" : { "order" : 14, "item" : "cupcakeplainMFM" },
+		"cupcakespookyMFM" : { "order" : 15, "item" : "cupcakespookyMFM" },
+		"cupcakevanillaMFM" : { "order" : 16, "item" : "cupcakevanillaMFM" },
+		"cupcakewhitechocolateMFM" : { "order" : 17, "item" : "cupcakewhitechocolateMFM" },
+		"donutplainchocolateMFM" : { "order" : 18, "item" : "donutplainchocolateMFM" },
+		"donutplainMFM" : { "order" : 19, "item" : "donutplainMFM" },
+		"donutplainspookyMFM" : { "order" : 20, "item" : "donutplainspookyMFM" },
+		"pieappleredMFM" : { "order" : 21, "item" : "pieappleredMFM" },
+		"piebutterscotchcinnamonMFM" : { "order" : 22, "item" : "piebutterscotchcinnamonMFM" },
+		"piepumpkinMFM" : { "order" : 23, "item" : "piepumpkinMFM" },
+		"hqbreadMFM" : { "order" : 24, "item" : "hqbreadMFM" },
+		"jelonbreadMFM" : { "order" : 25, "item" : "jelonbreadMFM" }
 	}
 }

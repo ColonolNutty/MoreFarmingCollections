@@ -4,6 +4,19 @@
 	"type" : "item",
 
 	"collectables" : {
-		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+		"makeshiftbakingstationCNYC" : { "order" : 1, "item" : "makeshiftbakingstationCNYC" },
+		"makeshiftboilingstationCNYC" : { "order" : 2, "item" : "makeshiftboilingstationCNYC" },
+		"makeshiftchoppingstationCNYC" : { "order" : 3, "item" : "makeshiftchoppingstationCNYC" },
+		"makeshiftgrindingstationCNYC" : { "order" : 4, "item" : "makeshiftgrindingstationCNYC" },
+		"smoreMFM" : { "order" : 5, "item" : "smoreMFM" },
+		"toastedmarshmallowMFM" : { "order" : 6, "item" : "toastedmarshmallowMFM" },
+		"marshmallowcoveredsweetpotatoMFM" : { "order" : 7, "item" : "marshmallowcoveredsweetpotatoMFM" },
+		"bakedsweetpotatoMFM" : { "order" : 8, "item" : "bakedsweetpotatoMFM" },
+		"roastedcoffeebeansMFM" : { "order" : 9, "item" : "roastedcoffeebeansMFM" },
+		"roastedgarpberrysMFM" : { "order" : 10, "item" : "roastedgarpberrysMFM" },
+		"roastedpeanutMFM" : { "order" : 11, "item" : "roastedpeanutMFM" },
+		"roastedstripofpoultryMFM" : { "order" : 12, "item" : "roastedstripofpoultryMFM" },
+		"roastedsunflowerseedsMFM" : { "order" : 13, "item" : "roastedsunflowerseedsMFM" },
+		"cookedeggMFM" : { "order" : 14, "item" : "cookedeggMFM" }
 	}
 }

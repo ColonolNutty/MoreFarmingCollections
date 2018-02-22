@@ -4,6 +4,11 @@
 	"type" : "item",
 
 	"collectables" : {
-		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+		"aleMFM" : { "order" : 1, "item" : "aleMFM" },
+		"cornbeerMFM" : { "order" : 2, "item" : "cornbeerMFM" },
+		"sourswillMFM" : { "order" : 3, "item" : "sourswillMFM" },
+		"vodkabottleMFM" : { "order" : 4, "item" : "vodkabottleMFM" },
+		"wheatbeerMFM" : { "order" : 5, "item" : "wheatbeerMFM" },
+		"foulcocktailMFM" : { "order" : 6, "item" : "foulcocktailMFM" }
 	}
 }

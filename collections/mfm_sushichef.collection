@@ -1,0 +1,32 @@
+{
+	"name" : "mfm_sushichef",
+	"title" : "[MFM] Sushi Chef",
+	"type" : "item",
+
+	"collectables" : {
+		"riceballMSM" : { "order" : 1, "item" : "riceballMSM" },
+		"avocadomakiMSM" : { "order" : 2, "item" : "avocadomakiMSM" },
+		"californiamakiMSM" : { "order" : 3, "item" : "californiamakiMSM" },
+		"ebimakiMSM" : { "order" : 4, "item" : "ebimakiMSM" },
+		"ikamakiMSM" : { "order" : 5, "item" : "ikamakiMSM" },
+		"kappamakiMSM" : { "order" : 6, "item" : "kappamakiMSM" },
+		"maguromakiMSM" : { "order" : 7, "item" : "maguromakiMSM" },
+		"sakemakiMSM" : { "order" : 8, "item" : "sakemakiMSM" },
+		"takomakiMSM" : { "order" : 9, "item" : "takomakiMSM" },
+		"unagimakiMSM" : { "order" : 10, "item" : "unagimakiMSM" },
+		"ebinigiriMSM" : { "order" : 11, "item" : "ebinigiriMSM" },
+		"ikanigiriMSM" : { "order" : 12, "item" : "ikanigiriMSM" },
+		"maguronigiriMSM" : { "order" : 13, "item" : "maguronigiriMSM" },
+		"sakenigiriMSM" : { "order" : 14, "item" : "sakenigiriMSM" },
+		"takonigiriMSM" : { "order" : 15, "item" : "takonigiriMSM" },
+		"unaginigiriMSM" : { "order" : 16, "item" : "unaginigiriMSM" },
+		"californiatemakiMSM" : { "order" : 17, "item" : "californiatemakiMSM" },
+		"ebitemakiMSM" : { "order" : 18, "item" : "ebitemakiMSM" },
+		"ikatemakiMSM" : { "order" : 19, "item" : "ikatemakiMSM" },
+		"magurotemakiMSM" : { "order" : 20, "item" : "magurotemakiMSM" },
+		"saketemakiMSM" : { "order" : 21, "item" : "saketemakiMSM" },
+		"takotemakiMSM" : { "order" : 22, "item" : "takotemakiMSM" },
+		"unagitemakiMSM" : { "order" : 23, "item" : "unagitemakiMSM" },
+		"tamagoyakiMSM" : { "order" : 24, "item" : "tamagoyakiMSM" }
+	}
+}

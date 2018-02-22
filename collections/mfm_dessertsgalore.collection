@@ -4,6 +4,9 @@
 	"type" : "item",
 
 	"collectables" : {
-		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+		"chocolatepuddingMFM" : { "order" : 1, "item" : "chocolatepuddingMFM" },
+		"puddingMFM" : { "order" : 2, "item" : "puddingMFM" },
+		"crepeblueberryMFM" : { "order" : 3, "item" : "crepeblueberryMFM" },
+		"crepestrawberryMFM" : { "order" : 4, "item" : "crepestrawberryMFM" }
 	}
 }

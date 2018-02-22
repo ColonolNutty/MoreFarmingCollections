@@ -4,6 +4,11 @@
 	"type" : "item",
 
 	"collectables" : {
-		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+		"friedfishMFM" : { "order" : 1, "item" : "friedfishMFM" },
+		"shrimptempuraMFM" : { "order" : 2, "item" : "shrimptempuraMFM" },
+		"cookedoctopusMFM" : { "order" : 3, "item" : "cookedoctopusMFM" },
+		"cookedkelpMFM" : { "order" : 4, "item" : "cookedkelpMFM" },
+		"cookedshrimpMFM" : { "order" : 5, "item" : "cookedshrimpMFM" },
+		"smokedsalmonMFM" : { "order" : 6, "item" : "smokedsalmonMFM" }
 	}
 }

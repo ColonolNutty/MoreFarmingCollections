@@ -1,9 +1,0 @@
-{
-	"name" : "mfm_sushimasta",
-	"title" : "[MFM] Sushi Masta",
-	"type" : "item",
-
-	"collectables" : {
-		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
-	}
-}

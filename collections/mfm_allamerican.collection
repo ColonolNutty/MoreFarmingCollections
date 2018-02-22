@@ -4,6 +4,19 @@
 	"type" : "item",
 
 	"collectables" : {
-		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+		"cheeseburgerMFM" : { "order" : 1, "item" : "cheeseburgerMFM" },
+		"cheeseburgerMFM2" : { "order" : 2, "item" : "cheeseburgerMFM2" },
+		"cheeseburgerMFM3" : { "order" : 3, "item" : "cheeseburgerMFM3" },
+		"cheeseburgerMFM4" : { "order" : 4, "item" : "cheeseburgerMFM4" },
+		"cheeseburgerMFM5" : { "order" : 5, "item" : "cheeseburgerMFM5" },
+		"cheeseburgerMFM6" : { "order" : 6, "item" : "cheeseburgerMFM6" },
+		"cheeseburgerMFM7" : { "order" : 7, "item" : "cheeseburgerMFM7" },
+		"veggieburgerMFM" : { "order" : 8, "item" : "veggieburgerMFM" },
+		"frenchfriesMFM" : { "order" : 9, "item" : "frenchfriesMFM" },
+		"frenchfrieswithketchupMFM" : { "order" : 10, "item" : "frenchfrieswithketchupMFM" },
+		"sweetpotatofriesMFM" : { "order" : 11, "item" : "sweetpotatofriesMFM" },
+		"pinanasliceMFM" : { "order" : 12, "item" : "pinanasliceMFM" },
+		"steakandmashedpotatoesMFM" : { "order" : 13, "item" : "steakandmashedpotatoesMFM" },
+		"macncheeseMFM" : { "order" : 14, "item" : "macncheeseMFM" }
 	}
 }

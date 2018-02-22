@@ -1,0 +1,20 @@
+{
+	"name" : "mfm_chocolatechess",
+	"title" : "[MFM] Chocolate Chess",
+	"type" : "item",
+
+	"collectables" : {
+		"chocolatedarkbishopMFM" : { "order" : 1, "item" : "chocolatedarkbishopMFM" },
+		"chocolatelightbishopMFM" : { "order" : 2, "item" : "chocolatelightbishopMFM" },
+		"chocolatedarkkingMFM" : { "order" : 3, "item" : "chocolatedarkkingMFM" },
+		"chocolatelightkingMFM" : { "order" : 4, "item" : "chocolatelightkingMFM" },
+		"chocolatedarkknightMFM" : { "order" : 5, "item" : "chocolatedarkknightMFM" },
+		"chocolatelightknightMFM" : { "order" : 6, "item" : "chocolatelightknightMFM" },
+		"chocolatedarkpawnMFM" : { "order" : 7, "item" : "chocolatedarkpawnMFM" },
+		"chocolatelightpawnMFM" : { "order" : 8, "item" : "chocolatelightpawnMFM" },
+		"chocolatedarkqueenMFM" : { "order" : 9, "item" : "chocolatedarkqueenMFM" },
+		"chocolatelightqueenMFM" : { "order" : 10, "item" : "chocolatelightqueenMFM" },
+		"chocolatedarkrookMFM" : { "order" : 11, "item" : "chocolatedarkrookMFM" },
+		"chocolatelightrookMFM" : { "order" : 12, "item" : "chocolatelightrookMFM" }
+	}
+}

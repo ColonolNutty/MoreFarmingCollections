@@ -4,6 +4,7 @@
 	"type" : "item",
 
 	"collectables" : {
-		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+		"pussMFM" : { "order" : 1, "item" : "pussMFM" },
+		"cookedflytrapMFMmeat" : { "order" : 2, "item" : "cookedflytrapMFMmeat" }
 	}
 }

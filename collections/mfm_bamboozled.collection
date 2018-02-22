@@ -4,6 +4,18 @@
 	"type" : "item",
 
 	"collectables" : {
-		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+		"bamboostalkBMB" : { "order" : 1, "item" : "bamboostalkBMB" },
+		"bamboobedBMB" : { "order" : 2, "item" : "bamboobedBMB" },
+		"bamboobookcaseBMB" : { "order" : 3, "item" : "bamboobookcaseBMB" },
+		"bamboocageBMB" : { "order" : 4, "item" : "bamboocageBMB" },
+		"bamboochairBMB" : { "order" : 5, "item" : "bamboochairBMB" },
+		"bamboocrate1BMB" : { "order" : 6, "item" : "bamboocrate1BMB" },
+		"bamboocrate2BMB" : { "order" : 7, "item" : "bamboocrate2BMB" },
+		"bamboodeskBMB" : { "order" : 8, "item" : "bamboodeskBMB" },
+		"bamboogateBMB" : { "order" : 9, "item" : "bamboogateBMB" },
+		"bamboopunjisticksBMB" : { "order" : 10, "item" : "bamboopunjisticksBMB" },
+		"bambooscreenBMB" : { "order" : 11, "item" : "bambooscreenBMB" },
+		"bamboostoolBMB" : { "order" : 12, "item" : "bamboostoolBMB" },
+		"bambootableBMB" : { "order" : 13, "item" : "bambootableBMB" }
 	}
 }

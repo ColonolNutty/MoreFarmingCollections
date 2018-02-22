@@ -4,6 +4,19 @@
 	"type" : "item",
 
 	"collectables" : {
-		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+		"rattanfiberMFM" : { "order" : 1, "item" : "rattanfiberMFM" },
+		"handledwickerbasketMFM" : { "order" : 2, "item" : "handledwickerbasketMFM" },
+		"largewickerbasketMFM" : { "order" : 3, "item" : "largewickerbasketMFM" },
+		"smallwickerbasketMFM" : { "order" : 4, "item" : "smallwickerbasketMFM" },
+		"tallwickerbasketMFM" : { "order" : 5, "item" : "tallwickerbasketMFM" },
+		"widewickerbasketMFM" : { "order" : 6, "item" : "widewickerbasketMFM" },
+		"wickerchest1MFM" : { "order" : 7, "item" : "wickerchest1MFM" },
+		"wickerchest2MFM" : { "order" : 8, "item" : "wickerchest2MFM" },
+		"wickerchest3MFM" : { "order" : 9, "item" : "wickerchest3MFM" },
+		"wickerstool1MFM" : { "order" : 10, "item" : "wickerstool1MFM" },
+		"wickerstool2MFM" : { "order" : 11, "item" : "wickerstool2MFM" },
+		"wickerstool3MFM" : { "order" : 12, "item" : "wickerstool3MFM" },
+		"wickertable1MFM" : { "order" : 13, "item" : "wickertable1MFM" },
+		"wickertable2MFM" : { "order" : 14, "item" : "wickertable2MFM" }
 	}
 }

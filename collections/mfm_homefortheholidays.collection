@@ -4,6 +4,13 @@
 	"type" : "item",
 
 	"collectables" : {
-		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+		"appleciderMFM" : { "order" : 1, "item" : "appleciderMFM" },
+		"greenappleciderMFM" : { "order" : 2, "item" : "greenappleciderMFM" },
+		"hotchocolateMFM" : { "order" : 3, "item" : "hotchocolateMFM" },
+		"hotchocolatemarshmallowMFM" : { "order" : 4, "item" : "hotchocolatemarshmallowMFM" },
+		"eggnogMFM" : { "order" : 5, "item" : "eggnogMFM" },
+		"mashedsweetpotatoMFM" : { "order" : 6, "item" : "mashedsweetpotatoMFM" },
+		"steakandmashedpotatoesMFM" : { "order" : 7, "item" : "steakandmashedpotatoesMFM" },
+		"tofurkeydinnerMFM" : { "order" : 8, "item" : "tofurkeydinnerMFM" }
 	}
 }

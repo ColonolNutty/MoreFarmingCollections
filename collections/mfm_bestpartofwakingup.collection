@@ -4,6 +4,23 @@
 	"type" : "item",
 
 	"collectables" : {
-		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+		"toxictoptartMFM" : { "order" : 1, "item" : "toxictoptartMFM" },
+		"pancakesplainMFM" : { "order" : 2, "item" : "pancakesplainMFM" },
+		"wafflesMFM" : { "order" : 3, "item" : "wafflesMFM" },
+		"cinnamonfrenchtoastMFM" : { "order" : 4, "item" : "cinnamonfrenchtoastMFM" },
+		"eggontoastMFM" : { "order" : 5, "item" : "eggontoastMFM" },
+		"frenchtoastMFM" : { "order" : 6, "item" : "frenchtoastMFM" },
+		"toastbutteredMFM" : { "order" : 7, "item" : "toastbutteredMFM" },
+		"baconandeggsMFM" : { "order" : 8, "item" : "baconandeggsMFM" },
+		"sausagealienpoultryandeggsMFM" : { "order" : 9, "item" : "sausagealienpoultryandeggsMFM" },
+		"friedeggMFM" : { "order" : 10, "item" : "friedeggMFM" },
+		"scrambledeggMFM" : { "order" : 11, "item" : "scrambledeggMFM" },
+		"scrambledeggwithketchupMFM" : { "order" : 12, "item" : "scrambledeggwithketchupMFM" },
+		"sunnysideupMFM" : { "order" : 13, "item" : "sunnysideupMFM" },
+		"hashbrownspotatoMFM" : { "order" : 14, "item" : "hashbrownspotatoMFM" },
+		"hashbrownssweetpotatoMFM" : { "order" : 15, "item" : "hashbrownssweetpotatoMFM" },
+		"cookedsausagealienpoultryMFM" : { "order" : 16, "item" : "cookedsausagealienpoultryMFM" },
+		"cookedeggMFM" : { "order" : 17, "item" : "cookedeggMFM" }
+		
 	}
 }

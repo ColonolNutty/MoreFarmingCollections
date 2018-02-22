@@ -4,6 +4,15 @@
 	"type" : "item",
 
 	"collectables" : {
-		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+		"bunnydollMFM" : { "order" : 1, "item" : "bunnydollMFM" },
+		"carrottrophyMFM" : { "order" : 2, "item" : "carrottrophyMFM" },
+		"eastereggbundleMFM" : { "order" : 3, "item" : "eastereggbundleMFM" },
+		"eggchestMFMblue" : { "order" : 4, "item" : "eggchestMFMblue" },
+		"eggchestMFMgreen" : { "order" : 5, "item" : "eggchestMFMgreen" },
+		"eggchestMFMred" : { "order" : 6, "item" : "eggchestMFMred" },
+		"torchcarrotMFM" : { "order" : 7, "item" : "torchcarrotMFM" },
+		"wallcarrotMFM" : { "order" : 8, "item" : "wallcarrotMFM" },
+		"chocolateeggMFM" : { "order" : 9, "item" : "chocolateeggMFM" },
+		"easterbunnyshopMFM" : { "order" : 10, "item" : "easterbunnyshopMFM" }
 	}
 }

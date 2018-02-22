@@ -4,6 +4,22 @@
 	"type" : "item",
 
 	"collectables" : {
-		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+		"bananajuiceMFM" : { "order" : 1, "item" : "bananajuiceMFM" },
+		"coralcreepjuiceMFM" : { "order" : 2, "item" : "coralcreepjuiceMFM" },
+		"dragonfruitjuiceMFM" : { "order" : 3, "item" : "dragonfruitjuiceMFM" },
+		"eggplantjuiceMFM" : { "order" : 4, "item" : "eggplantjuiceMFM" },
+		"feathercrownjuiceMFM" : { "order" : 5, "item" : "feathercrownjuiceMFM" },
+		"garpberryjuiceMFM" : { "order" : 6, "item" : "garpberryjuiceMFM" },
+		"grapefruitjuiceMFM" : { "order" : 7, "item" : "grapefruitjuiceMFM" },
+		"greenapplejuiceMFM" : { "order" : 8, "item" : "greenapplejuiceMFM" },
+		"jelonjuiceMFM" : { "order" : 9, "item" : "jelonjuiceMFM" },
+		"lemonjuiceMFM" : { "order" : 10, "item" : "lemonjuiceMFM" },
+		"limejuiceMFM" : { "order" : 11, "item" : "limejuiceMFM" },
+		"mangojuiceMFM" : { "order" : 12, "item" : "mangojuiceMFM" },
+		"neonmelonjuiceMFM" : { "order" : 13, "item" : "neonmelonjuiceMFM" },
+		"orangejuiceMFM" : { "order" : 14, "item" : "orangejuiceMFM" },
+		"redapplejuiceMFM" : { "order" : 15, "item" : "redapplejuiceMFM" },
+		"toxictopjuiceMFM" : { "order" : 16, "item" : "toxictopjuiceMFM" },
+		"sugarcanejuiceMFM" : { "order" : 17, "item" : "sugarcanejuiceMFM" }
 	}
 }

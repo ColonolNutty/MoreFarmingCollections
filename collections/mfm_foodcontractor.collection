@@ -4,6 +4,22 @@
 	"type" : "item",
 
 	"collectables" : {
-		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+		"brickchocolatedarkMFM" : { "order" : 1, "item" : "brickchocolatedarkMFM" },
+		"brickchocolateplainMFM" : { "order" : 2, "item" : "brickchocolateplainMFM" },
+		"brickchocolatewhiteMFM" : { "order" : 3, "item" : "brickchocolatewhiteMFM" },
+		"hardchocolatedarkMFM" : { "order" : 4, "item" : "hardchocolatedarkMFM" },
+		"hardchocolateplainMFM" : { "order" : 5, "item" : "hardchocolateplainMFM" },
+		"hardchocolatewhiteMFM" : { "order" : 6, "item" : "hardchocolatewhiteMFM" },
+		"darkchocolateblockMFM" : { "order" : 7, "item" : "darkchocolateblockMFM" },
+		"chocolateblockMFM" : { "order" : 8, "item" : "chocolateblockMFM" },
+		"whitechocolateblockMFM" : { "order" : 9, "item" : "whitechocolateblockMFM" },
+		"softchocolatedarkMFM" : { "order" : 10, "item" : "softchocolatedarkMFM" },
+		"softchocolateplainMFM" : { "order" : 11, "item" : "softchocolateplainMFM" },
+		"softchocolatewhiteMFM" : { "order" : 12, "item" : "softchocolatewhiteMFM" },
+		"sugarblockMFM" : { "order" : 13, "item" : "sugarblockMFM" },
+		"jelonblockMFM" : { "order" : 14, "item" : "jelonblockMFM" },
+		"neonmelonblockMFM" : { "order" : 15, "item" : "neonmelonblockMFM" },
+		"pumpkinblockMFM" : { "order" : 16, "item" : "pumpkinblockMFM" },
+		"toffeeblockMFM" : { "order" : 17, "item" : "toffeeblockMFM" }
 	}
 }

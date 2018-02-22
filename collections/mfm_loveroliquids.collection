@@ -4,6 +4,10 @@
 	"type" : "item",
 
 	"collectables" : {
-		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+		"chocolateliquordarkMFM" : { "order" : 1, "item" : "chocolateliquordarkMFM" },
+		"chocolateliquorMFM" : { "order" : 2, "item" : "chocolateliquorMFM" },
+		"chocolateliquorwhiteMFM" : { "order" : 3, "item" : "chocolateliquorwhiteMFM" },
+		"chocolatemilkMFM" : { "order" : 4, "item" : "chocolatemilkMFM" },
+		"milkMFM" : { "order" : 5, "item" : "milkMFM" }
 	}
 }

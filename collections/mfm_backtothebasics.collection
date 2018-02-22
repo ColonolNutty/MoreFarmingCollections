@@ -4,6 +4,13 @@
 	"type" : "item",
 
 	"collectables" : {
-		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+		"bread" : { "order" : 1, "item" : "bread" },
+		"breadandbirdMFM" : { "order" : 2, "item" : "breadandbirdMFM" },
+		"breadsliceMFM" : { "order" : 3, "item" : "breadsliceMFM" },
+		"hqbreadMFM" : { "order" : 4, "item" : "hqbreadMFM" },
+		"jelonbreadMFM" : { "order" : 5, "item" : "jelonbreadMFM" },
+		"shortcrustpastryMFM" : { "order" : 6, "item" : "shortcrustpastryMFM" },
+		"instantnoodlesMFM" : { "order" : 7, "item" : "instantnoodlesMFM" },
+		"hardboiledeggMFM" : { "order" : 8, "item" : "hardboiledeggMFM" }
 	}
 }

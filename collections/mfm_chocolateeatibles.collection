@@ -4,6 +4,13 @@
 	"type" : "item",
 
 	"collectables" : {
-		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
+		"chocolatecoffeebeansMFM" : { "order" : 1, "item" : "chocolatecoffeebeansMFM" },
+		"chocolatecoveredbaconMFM" : { "order" : 2, "item" : "chocolatecoveredbaconMFM" },
+		"chocolatefrenchtoastMFM" : { "order" : 3, "item" : "chocolatefrenchtoastMFM" },
+		"chocolatebunnydarkMFM" : { "order" : 4, "item" : "chocolatebunnydarkMFM" },
+		"chocolatebunnyplainMFM" : { "order" : 5, "item" : "chocolatebunnyplainMFM" },
+		"chocolatebunnywhiteMFM" : { "order" : 6, "item" : "chocolatebunnywhiteMFM" },
+		"darkchocolateMFM" : { "order" : 7, "item" : "darkchocolateMFM" },
+		"whitechocolateMFM" : { "order" : 8, "item" : "whitechocolateMFM" }
 	}
 }

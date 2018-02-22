@@ -1,92 +1,3 @@
-Desserts Galore
-  - /items
-    - /generic
-      - /desserts
-        - /pudding
-	    - /crepes
-Legendary Baker
-  - /items
-    - /generic
-      - /desserts
-        - /brownies
-	    - /cakes
-	    - /cookies
-	    - /cupcakes
-	    - /donuts
-	    - /pies
-Candy Rush
-  - /items
-    - /generic
-      - /desserts
-        - /caramel
-	      - /chocolatecovered
-	      - lollipopMFM
-	      - marshmallowcoveredsweetpotatoMFM
-Good Ol' Outdoors
-  - /objects
-    - /campsite
-  - /items
-    - /generic
-      - /desserts
-        - smoreMFM
-    	- toastedmarshmallowMFM
-	    - marshmallowcoveredsweetpotatoMFM
-      - /meal
-        - /baked
-		- /roasted
-Boil 'em, Mash 'em, Stick 'em in a Stew
-  - /items
-    - /generic
-      - /meal
-        - /boiled
-Home For The Holidays
-  - /items
-    - /generic
-      - /drinks
-        - eggnogMFM
-	    - /cider
-	    - /other
-      - /meal
-        - /cooked
-	      - honeyglazedhamMFM
-	    - /mashedpotatoes
-	    - /plate
-	      - tofurkeydinnerMFM
-Frozen Delights
-  - /items
-    - /generic
-      - /desserts
-        - /icecream
-Where Has All The Rum Gone?
-  - /items
-    - /generic
-      - /drinks
-        - /alcohol
-I Lyka Tha Juce
-  - /items
-    - /generic
-      - /drinks
-        - /juice
-Will It Blend?
-  - /items
-    - /generic
-      - /drinks
-        - /milkshakes
-	    - /puree
-Fresh Off The Barbie
-  - /items
-    - /generic
-      - /meal
-        - /cooked
-	    - /grilled
-Back To The Basics
-  - /items
-    - /generic
-      - /meal
-        - /bread
-	    - /toast
-	    - /pasta
-	      - instantnoodlesMFM
 All American
   - /items
     - /generic
@@ -98,60 +9,7 @@ All American
 	      - steakandmashedpotatoesMFM
 		- /bowl
 		  - macncheeseMFM
-Under Da Sea
-  - /items
-    - /generic
-      - /meal
-        - /fish
-	    - /cooked
-	      - cookedoctopusMFM
-	      - cookedkelpMFM
-	      - cookedshrimpMFM
-          - cookedsquidMFM
-	      - cookedtunaMFM
-	      - smokedsalmonMFM
-International Cuisine
-  - /items
-    - /generic
-      - /meal
-        - /kebab
-        - /pasta
-        - /pizza
-        - /plate
-          - padthaiMFM
-          - phoMFM
-		- /bowl
-		  - curryriceMFM
-		  - tofucurryMFM
-		  - gumboMFM
-Farmers Market
-  - /items
-    - /generic
-	  - /produce
-Chocolate Eatibles
-  - /items
-    - /generic
-      - /desserts
-	    - /chocolatecovered
-        - /other
-	  - /partsMFM
-	    - /chocolate
-Chocolate Decor
-  - /objects
-    - /chocolatechessMFM
-	- /chocolateMFM
-	- /eastermFM
-	 - /chocolatebow1MFM
-	 - /chocolatebow2MFM
-	 - /chocolatebunnystatueMFM
-	 - /chocolatecarouselMFM
-	 - /chocolatechairMFM
-	 - /chocolateeggbasketMFM
-	 - /chocolateeggstashMFM
-	 - /chocolatelightdMFM
-	 - /chocolatelightMFM
-	 - /chocolatestatuedarkbunnyMFM
-Appliance Connoisseur
+Appliance Connoisseur (Apex, Avian, Floran, Basic, Glitch, Human, Hylotl, Nano, Novakid)
  - /objects
    - /apex
    - /avian
@@ -161,18 +19,22 @@ Appliance Connoisseur
    - /human
    - /hylotl
    - /nano
-   - /nanokid
+   - /novakid
    - /outpost
    - /themed
-It's Easter!
-  - /objects
-    - /easterMFM
-	- /shop
-	  - /easterbunnyshopMFM
+Back To The Basics
   - /items
     - /generic
-	  - /unknownMFM
-	    - chocolateeggMFM
+      - /meal
+        - /bread
+	    - /toast
+	    - /pasta
+	      - instantnoodlesMFM
+		- /boiled
+		  - hardboiledeggMFM
+		- /stew
+		  - stewedapplesMFM
+		  - stewmountainmanMFM
 Bamboozled
   - /items
     - /generic
@@ -180,39 +42,6 @@ Bamboozled
 	    - bamboostalkBMB
   - /objects
     - /bamboo
-Wicker Man
-  - /objects
-    - /baskets
-	- /wickerfurnitureMFM
-Lover o' Liquids
-  - /items
-    - /liquids
-Food Contractor
-  - /items
-    - /materials
-Drink Masta
-  - /items
-    - /generic
-	  - /drinks
-Sushi Masta
-  - /items
-    - /generic
-      - /meal
-        - /rice
-          - /maki
-	      - /nigiri
-	      - /temaki
-		  - tamagoyakiMSM
-		  - riceballMSM
-Bits n' Pieces
-  - /items
-    - /generic
-	  - /partsMFM
-Exotic Delicacy
-  - /items
-    - /generic
-      - /drinks
-        - pussMFM
 Best Part Of Waking Up
   - /items
     - /generic
@@ -225,8 +54,191 @@ Best Part Of Waking Up
           - baconandeggsMFM
 	      - sausagealienpoultryandeggsMFM
 		- /fried
+		  - friedeggMFM
 		  - scrambledeggMFM
 		  - scrambledeggwithketchupMFM
 		  - sunnysideupMFM
-        - hashbrownspotatoMFM.consum
-        - hashbrownssweetpotatoMFM
+          - hashbrownspotatoMFM.consum
+          - hashbrownssweetpotatoMFM
+		- /cooked
+		  - cookedsausagealienpoultryMFM
+		  - cookedeggMFM
+Bits n' Pieces (Do this? Maybe not)
+  - /items
+    - /generic
+	  - /partsMFM
+Boil 'em, Mash 'em, Stick 'em in a Stew
+  - /items
+    - /generic
+      - /meal
+        - /boiled
+		- /stew
+Candy Rush
+  - /items
+    - /generic
+      - /desserts
+        - /caramel
+	    - /chocolatecovered
+	    - lollipopMFM
+	    - marshmallowcoveredsweetpotatoMFM
+Chocolate Chess
+  - /objects
+    - /chocolatechessMFM
+Chocolate Decor
+  - /objects
+	- /chocolateMFM
+	- /easterMFM
+	 - /chocolatebow1MFM
+	 - /chocolatebow2MFM
+	 - /chocolatebunnystatueMFM
+	 - /chocolatecarouselMFM
+	 - /chocolatechairMFM
+	 - /chocolateeggbasketMFM
+	 - /chocolateeggstashMFM
+	 - /chocolatelightdMFM
+	 - /chocolatelightMFM
+	 - /chocolatestatuedarkbunnyMFM
+Chocolate Eatibles
+  - /items
+    - /generic
+      - /desserts
+	    - /chocolatecovered
+        - /other
+	  - /partsMFM
+	    - /chocolate
+Desserts Galore
+  - /items
+    - /generic
+      - /desserts
+        - /pudding
+	    - /crepes
+Exotic Delicacy
+  - /items
+    - /generic
+      - /drinks
+        - pussMFM
+      - /meals
+	    - /cooked
+		  - cookedflytrapMFMmeat
+Farmers Market
+  - /items
+    - /generic
+	  - /produce
+Food Contractor
+  - /items
+    - /materials
+Fresh Off The Barbie
+  - /items
+    - /generic
+      - /meal
+        - /cooked
+	    - /grilled
+Frozen Delights
+  - /items
+    - /generic
+      - /desserts
+        - /icecream
+Good Ol' Outdoors
+  - /objects
+    - /campsite
+  - /items
+    - /generic
+      - /desserts
+        - smoreMFM
+    	- toastedmarshmallowMFM
+	    - marshmallowcoveredsweetpotatoMFM
+      - /meal
+        - /baked
+		- /roasted
+		- /cooked
+		  - cookedeggMFM
+Home For The Holidays
+  - /items
+    - /generic
+      - /drinks
+	    - /cider
+	    - /other
+        - eggnogMFM
+      - /meal
+	    - /mashedpotatoes
+	    - /plate
+		  - steakandmashedpotatoesMFM
+	      - tofurkeydinnerMFM
+I Lyka Tha Juce
+  - /items
+    - /generic
+      - /drinks
+        - /juice
+International Cuisine
+  - /items
+    - /generic
+      - /meal
+        - /kebab
+        - /pasta
+        - /pizza
+        - /plate
+          - padthaiMFM
+          - phoMFM
+		- /bowl
+		  - tofucurryMFM
+It's Easter!
+  - /objects
+    - /easterMFM
+	- /shop
+	  - /easterbunnyshopMFM
+  - /items
+    - /generic
+	  - /unknownMFM
+	    - chocolateeggMFM
+Legendary Baker
+  - /items
+    - /generic
+      - /desserts
+        - /brownies
+	    - /cakes
+	    - /cookies
+	    - /cupcakes
+	    - /donuts
+	    - /pies
+      - /meal
+	    - /bread
+		  - hqbreadMFM
+		  - jelonbreadMFM
+Lover o' Liquids
+  - /items
+    - /liquids
+Sushi Chef
+  - /items
+    - /generic
+      - /meal
+        - /rice
+          - /maki
+	      - /nigiri
+	      - /temaki
+		  - riceballMSM
+		  - tamagoyakiMSM
+Under Da Sea
+  - /items
+    - /generic
+      - /meal
+        - /fish
+	    - /cooked
+	      - cookedoctopusMFM
+	      - cookedkelpMFM
+	      - cookedshrimpMFM
+	      - smokedsalmonMFM
+Where Has All The Rum Gone?
+  - /items
+    - /generic
+      - /drinks
+        - /alcohol
+Wicker Man
+  - /objects
+    - /baskets
+	- /wickerfurnitureMFM
+Will It Blend?
+  - /items
+    - /generic
+      - /drinks
+        - /milkshakes
+	    - /puree

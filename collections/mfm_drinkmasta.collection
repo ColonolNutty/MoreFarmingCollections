@@ -1,9 +1,0 @@
-{
-	"name" : "mfm_drinkmasta",
-	"title" : "[MFM] Drink Masta",
-	"type" : "item",
-
-	"collectables" : {
-		"browniechocolateMFM" : { "order" : 1, "item" : "browniechocolateMFM" }
-	}
-}
