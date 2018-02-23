@@ -6,13 +6,13 @@
 	"collectables" : {
 		"chocolatechipicecreamMFM" : { "order" : 1, "item" : "chocolatechipicecreamMFM" },
 		"chocolateicecreamMFM" : { "order" : 2, "item" : "chocolateicecreamMFM" },
+		"vanillaicecreamMFM" : { "order" : 10, "item" : "vanillaicecreamMFM" },
 		"garpberryicecreamMFM" : { "order" : 3, "item" : "garpberryicecreamMFM" },
 		"icecreamchocolateswirlMFM" : { "order" : 4, "item" : "icecreamchocolateswirlMFM" },
 		"icecreamvanillaMFM" : { "order" : 5, "item" : "icecreamvanillaMFM" },
 		"snowcone" : { "order" : 6, "item" : "snowcone" },
 		"snowconeblueMFM" : { "order" : 7, "item" : "snowconeblueMFM" },
 		"snowconeredMFM" : { "order" : 8, "item" : "snowconeredMFM" },
-		"snowconeyellowMFM" : { "order" : 9, "item" : "snowconeyellowMFM" },
-		"vanillaicecreamMFM" : { "order" : 10, "item" : "vanillaicecreamMFM" }
+		"snowconeyellowMFM" : { "order" : 9, "item" : "snowconeyellowMFM" }
 	}
 }
