@@ -4,15 +4,25 @@
 	"type" : "item",
 
 	"collectables" : {
-		"chocolatechipicecreamMFM" : { "order" : 1, "item" : "chocolatechipicecreamMFM" },
-		"chocolateicecreamMFM" : { "order" : 2, "item" : "chocolateicecreamMFM" },
-		"vanillaicecreamMFM" : { "order" : 10, "item" : "vanillaicecreamMFM" },
-		"garpberryicecreamMFM" : { "order" : 3, "item" : "garpberryicecreamMFM" },
+		"icecreambananaMFM" : { "order" : 1, "item" : "icecreambananaMFM" },
+		"icecreamcactiMFM" : { "order" : 2, "item" : "icecreamcactiMFM" },
+		"icecreamchocolateMFM" : { "order" : 3, "item" : "icecreamchocolateMFM" },
 		"icecreamchocolateswirlMFM" : { "order" : 4, "item" : "icecreamchocolateswirlMFM" },
-		"icecreamvanillaMFM" : { "order" : 5, "item" : "icecreamvanillaMFM" },
-		"snowcone" : { "order" : 6, "item" : "snowcone" },
-		"snowconeblueMFM" : { "order" : 7, "item" : "snowconeblueMFM" },
-		"snowconeredMFM" : { "order" : 8, "item" : "snowconeredMFM" },
-		"snowconeyellowMFM" : { "order" : 9, "item" : "snowconeyellowMFM" }
+		"icecreamcoconutMFM" : { "order" : 5, "item" : "icecreamcoconutMFM" },
+		"icecreamgarpberryMFM" : { "order" : 6, "item" : "icecreamgarpberryMFM" },
+		"icecreamvanillachocolatechipMFM" : { "order" : 7, "item" : "icecreamvanillachocolatechipMFM" },
+		"icecreamvanillaMFM" : { "order" : 8, "item" : "icecreamvanillaMFM" },
+		"icecreamconechocolateMFM" : { "order" : 9, "item" : "icecreamconechocolateMFM" },
+		"icecreamconegarpberryMFM" : { "order" : 10, "item" : "icecreamconegarpberryMFM" },
+		"icecreamconechocolateswirlMFM" : { "order" : 11, "item" : "icecreamconechocolateswirlMFM" },
+		"icecreamconevanillachocolatechipMFM" : { "order" : 12, "item" : "icecreamconevanillachocolatechipMFM" },
+		"icecreamconevanillaMFM" : { "order" : 13, "item" : "icecreamconevanillaMFM" },
+		"coconuticecream" : { "order" : 14, "item" : "coconuticecream" },
+		"cactiicecream" : { "order" : 15, "item" : "cactiicecream" },
+		"bananaicecream" : { "order" : 16, "item" : "bananaicecream" },
+		"snowcone" : { "order" : 17, "item" : "snowcone" },
+		"snowconeblueMFM" : { "order" : 18, "item" : "snowconeblueMFM" },
+		"snowconeredMFM" : { "order" : 19, "item" : "snowconeredMFM" },
+		"snowconeyellowMFM" : { "order" : 20, "item" : "snowconeyellowMFM" }
 	}
 }
