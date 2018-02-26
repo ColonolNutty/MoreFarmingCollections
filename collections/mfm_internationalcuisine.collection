@@ -5,14 +5,15 @@
 
 	"collectables" : {
 		"kebabshrimppoultryMFM" : { "order" : 1, "item" : "kebabshrimppoultryMFM" },
-		"freshpastaMFM" : { "order" : 2, "item" : "freshpastaMFM" },
-		"automatopastaMFM" : { "order" : 3, "item" : "automatopastaMFM" },
-		"bananapastaMFM" : { "order" : 4, "item" : "bananapastaMFM" },
-		"butteredpastaMFM" : { "order" : 5, "item" : "butteredpastaMFM" },
-		"tomatopastaMFM" : { "order" : 6, "item" : "tomatopastaMFM" },
+		"pastaplainMFM" : { "order" : 2, "item" : "pastaplainMFM" },
+		"pastaautomatoMFM" : { "order" : 3, "item" : "pastaautomatoMFM" },
+		"pastabananaMFM" : { "order" : 4, "item" : "pastabananaMFM" },
+		"pastabutteredMFM" : { "order" : 5, "item" : "pastabutteredMFM" },
+		"pastatomatoMFM" : { "order" : 6, "item" : "pastatomatoMFM" },
 		"padthaiMFM" : { "order" : 7, "item" : "padthaiMFM" },
 		"phoMFM" : { "order" : 8, "item" : "phoMFM" },
-		"tofucurryMFM" : { "order" : 9, "item" : "tofucurryMFM" },
-		"pinanasliceMFM" : { "order" : 10, "item" : "pinanasliceMFM" }
+		"currytofuMFM" : { "order" : 9, "item" : "currytofuMFM" },
+		"curryriceMFM" : { "order" : 10, "item" : "curryriceMFM" },
+		"pinanasliceMFM" : { "order" : 11, "item" : "pinanasliceMFM" }
 	}
 }
