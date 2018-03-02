@@ -17,9 +17,9 @@
 		"softchocolateplainMFM" : { "order" : 11, "item" : "softchocolateplainMFM" },
 		"softchocolatewhiteMFM" : { "order" : 12, "item" : "softchocolatewhiteMFM" },
 		"softblocksugarMFM" : { "order" : 13, "item" : "softblocksugarMFM" },
-		"blockjelonMFM" : { "order" : 14, "item" : "blockjelonMFM" },
-		"blockneonmelonMFM" : { "order" : 15, "item" : "blockneonmelonMFM" },
-		"blockpumpkinMFM" : { "order" : 16, "item" : "blockpumpkinMFM" },
-		"blocktoffeeMFM" : { "order" : 17, "item" : "blocktoffeeMFM" }
+		"softblocktoffeeMFM" : { "order" : 14, "item" : "softblocktoffeeMFM" },
+		"blockjelonMFM" : { "order" : 15, "item" : "blockjelonMFM" },
+		"blockneonmelonMFM" : { "order" : 16, "item" : "blockneonmelonMFM" },
+		"blockpumpkinMFM" : { "order" : 17, "item" : "blockpumpkinMFM" }
 	}
 }
