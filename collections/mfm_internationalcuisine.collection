@@ -14,6 +14,9 @@
 		"phoMFM" : { "order" : 8, "item" : "phoMFM" },
 		"currytofuMFM" : { "order" : 9, "item" : "currytofuMFM" },
 		"curryriceMFM" : { "order" : 10, "item" : "curryriceMFM" },
-		"pinanasliceMFM" : { "order" : 11, "item" : "pinanasliceMFM" }
+		"pizzaslice" : { "order" : 11, "item" : "pizzaslice" },
+		"pizzaslicepinanaMFM" : { "order" : 12, "item" : "pizzaslicepinanaMFM" },
+		"pizzaslicepiodiaMFM" : { "order" : 13, "item" : "pizzaslicepiodiaMFM" },
+		"pizzaslicepizzapMFM" : { "order" : 14, "item" : "pizzaslicepizzapMFM" }
 	}
 }

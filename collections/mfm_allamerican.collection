@@ -15,8 +15,11 @@
 		"frenchfriesMFM" : { "order" : 9, "item" : "frenchfriesMFM" },
 		"frenchfrieswithketchupMFM" : { "order" : 10, "item" : "frenchfrieswithketchupMFM" },
 		"sweetpotatofriesMFM" : { "order" : 11, "item" : "sweetpotatofriesMFM" },
-		"pinanasliceMFM" : { "order" : 12, "item" : "pinanasliceMFM" },
-		"steakandmashedpotatoesMFM" : { "order" : 13, "item" : "steakandmashedpotatoesMFM" },
-		"macncheeseMFM" : { "order" : 14, "item" : "macncheeseMFM" }
+		"pizzaslice" : { "order" : 12, "item" : "pizzaslice" },
+		"pizzaslicepinanaMFM" : { "order" : 13, "item" : "pizzaslicepinanaMFM" },
+		"pizzaslicepiodiaMFM" : { "order" : 14, "item" : "pizzaslicepiodiaMFM" },
+		"pizzaslicepizzapMFM" : { "order" : 15, "item" : "pizzaslicepizzapMFM" },
+		"steakandmashedpotatoesMFM" : { "order" : 16, "item" : "steakandmashedpotatoesMFM" },
+		"macncheeseMFM" : { "order" : 17, "item" : "macncheeseMFM" }
 	}
 }
