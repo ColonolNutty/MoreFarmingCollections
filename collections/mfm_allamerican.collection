@@ -17,8 +17,8 @@
 		"sweetpotatofriesMFM" : { "order" : 11, "item" : "sweetpotatofriesMFM" },
 		"pizzaslice" : { "order" : 12, "item" : "pizzaslice" },
 		"pizzaslicepinanaMFM" : { "order" : 13, "item" : "pizzaslicepinanaMFM" },
-		"pizzaslicepiodiaMFM" : { "order" : 14, "item" : "pizzaslicepiodiaMFM" },
-		"pizzaslicepizzapMFM" : { "order" : 15, "item" : "pizzaslicepizzapMFM" },
+		"piodia" : { "order" : 14, "item" : "piodia" },
+		"8gbpizzap" : { "order" : 15, "item" : "8gbpizzap" },
 		"steakandmashedpotatoesMFM" : { "order" : 16, "item" : "steakandmashedpotatoesMFM" },
 		"macncheeseMFM" : { "order" : 17, "item" : "macncheeseMFM" }
 	}

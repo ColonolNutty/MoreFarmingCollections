@@ -16,7 +16,7 @@
 		"curryriceMFM" : { "order" : 10, "item" : "curryriceMFM" },
 		"pizzaslice" : { "order" : 11, "item" : "pizzaslice" },
 		"pizzaslicepinanaMFM" : { "order" : 12, "item" : "pizzaslicepinanaMFM" },
-		"pizzaslicepiodiaMFM" : { "order" : 13, "item" : "pizzaslicepiodiaMFM" },
-		"pizzaslicepizzapMFM" : { "order" : 14, "item" : "pizzaslicepizzapMFM" }
+		"piodia" : { "order" : 13, "item" : "piodia" },
+		"8gbpizzap" : { "order" : 14, "item" : "8gbpizzap" }
 	}
 }
